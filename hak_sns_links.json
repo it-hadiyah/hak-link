@@ -1,0 +1,127 @@
+{
+  "source": "https://www.hak.com.sa/",
+  "fetched_at": "2026-10-08T12:38:31+03:00",
+  "links": [
+    {
+      "platform": "snapchat",
+      "label_ar": "سناب شات",
+      "label_en": "Snapchat",
+      "url": "https://snapchat.com/t/myU8fiGt",
+      "where_found": "homepage footer (follow-us icons)"
+    },
+    {
+      "platform": "facebook",
+      "label_ar": "فيسبوك",
+      "label_en": "Facebook",
+      "url": "https://www.facebook.com/profile.php?id=61580459985941",
+      "where_found": "homepage footer (follow-us icons)"
+    },
+    {
+      "platform": "instagram",
+      "label_ar": "انستقرام",
+      "label_en": "Instagram",
+      "url": "https://www.instagram.com/hadiyahalkhair/",
+      "where_found": "homepage footer (follow-us icons)"
+    },
+    {
+      "platform": "linkedin",
+      "label_ar": "لينكدإن",
+      "label_en": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hadiyahalkhair",
+      "where_found": "homepage footer (follow-us icons)"
+    },
+    {
+      "platform": "tiktok",
+      "label_ar": "تيك توك",
+      "label_en": "TikTok",
+      "url": "https://www.tiktok.com/@hadiyahalkhair",
+      "where_found": "homepage footer (follow-us icons)"
+    },
+    {
+      "platform": "youtube",
+      "label_ar": "يوتيوب",
+      "label_en": "YouTube",
+      "url": "https://www.youtube.com/@Hadiyahalkhair",
+      "where_found": "homepage footer (follow-us icons)"
+    },
+    {
+      "platform": "x",
+      "label_ar": "إكس (تويتر)",
+      "label_en": "X (Twitter)",
+      "url": "https://x.com/Hadiyahalkhair",
+      "where_found": "homepage footer (follow-us icons); JSON-LD sameAs"
+    },
+    {
+      "platform": "x_post",
+      "label_ar": "تغريدة (خبر: مشاركة في مؤتمر الحج)",
+      "label_en": "X post (news: Hajj conference)",
+      "url": "https://x.com/hadiyahalkhair/status/1989059995821043829?s=46",
+      "where_found": "homepage media/news card 1"
+    },
+    {
+      "platform": "email",
+      "label_ar": "البريد الإلكتروني",
+      "label_en": "Email",
+      "url": "mailto:info@hak.com.sa",
+      "where_found": "contact section + footer"
+    },
+    {
+      "platform": "phone",
+      "label_ar": "الهاتف",
+      "label_en": "Phone",
+      "url": "tel:+966552059976",
+      "where_found": "contact section (+966 55 205 9976)"
+    },
+    {
+      "platform": "store",
+      "label_ar": "المتجر",
+      "label_en": "Store",
+      "url": "https://store.hak.com.sa/",
+      "where_found": "header nav button (المتجر)"
+    },
+    {
+      "platform": "address",
+      "label_ar": "الموقع",
+      "label_en": "Location (text only, no maps link on site)",
+      "url": "",
+      "where_found": "contact section: مكة المكرمة - حي النسيم - شارع فاطمة الزهراء"
+    }
+  ],
+  "logo": [
+    "https://www.hak.com.sa/images/logo.png",
+    "https://www.hak.com.sa/images/logo_2.png"
+  ],
+  "favicon": "https://www.hak.com.sa/images/logo.png",
+  "colors": [
+    {
+      "hex": "#017768",
+      "role": "primary green (theme-color, buttons, headings)"
+    },
+    {
+      "hex": "#007361",
+      "role": "darker green"
+    },
+    {
+      "hex": "#b9995e",
+      "role": "gold accent"
+    },
+    {
+      "hex": "#a8864f",
+      "role": "gold hover"
+    },
+    {
+      "hex": "#475f72",
+      "role": "slate"
+    }
+  ],
+  "tagline_ar": "استثمارات مستدامة لخدمة ضيوف الرحمن",
+  "tagline_en": "Sustainable Investments to Serve Guests of Allah",
+  "description_ar": "شركة هدية الخير هي الذراع الاستثماري والتنفيذي لجمعية هدية الحاج والمعتمر، نسعى في الشركة لتحقيق الاستدامة المالية وتطوير المشاريع النوعية والتي تسهم في الارتقاء بالخدمات المقدمة لضيوف الرحمن",
+  "description_en": "Hadiyah Alkhair is the investment and operational arm of the Haji and Mu’tamer Hadiyah Association. Here at the company, we strive to achieve financial sustainability and develop high-quality projects that contribute to enhancing the services provided to the Guests of Allah.",
+  "images": [
+    "https://www.hak.com.sa/news1.jpeg",
+    "https://www.hak.com.sa/news4.jpeg",
+    "https://www.hak.com.sa/news5.jpeg"
+  ],
+  "notes": "No WhatsApp, Telegram or maps link exists on the site. images/favicon-16x16.png, favicon-32x32.png, apple-touch-icon.png are declared in HTML but return 404; the live favicon is images/logo.png. The only photo-like assets are the news images (news1/4/5.jpeg, screenshots/posters, object-contain, not true hero photos); the hero is text on a geometric pattern. Partner logos at images/partners/partner1-14.jpeg."
+}
